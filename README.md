@@ -7,7 +7,6 @@
 Official Python implementation of the paper:
 
 > **A Feasible Region-Guided Constrained Sampling Algorithm for Design of Experiments with Non-Convex Inequality Constraints**  
-> *Mingyu Zhao, Yingbo Lu, Zhixing Duan, Benben Zhou, and Fei Liu*  
 > Published in **[38th China Simulation Conference (CSC 2026), Springer CCIS](https://link.springer.com/book/10.1007/978-981-92-5712-6)**  
 > Conference Proceedings Link: [https://link.springer.com/book/10.1007/978-981-92-5712-6](https://link.springer.com/book/10.1007/978-981-92-5712-6)
 

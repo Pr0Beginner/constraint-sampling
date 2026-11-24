@@ -1,0 +1,53 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Reproduced / third-party code and papers
+otherMethods/
+papers/
+*.pdf
+*.docx
+*.doc
+
+# Legacy / unrelated experimental modules and models
+Examples/
+CEOptimizer/
+DEOptimizer/
+IMTCMO/
+Optimizer/
+Ori/
+Sampler/
+SequentialSampling/
+ConstraintOptimizer/OldEvoluationaryOptimizer.py
+ConstraintOptimizer/demos/
+ConstraintOptimizer/StageA/core/
+ConstraintOptimizer/StageA/figures/
+ConstraintOptimizer/StageA/tests/
+ConstraintOptimizer/StageA_Multithread/core/
+ConstraintOptimizer/StageA_Multithread/tests/
+utils/DeepGenCo.py
+utils/GenCO.py
+utils/GenCoGAN.py
+utils/SLSQPGenCO.py
+utils/temp.txt
+generateExcelData.py
+test.py
+
+# Intermediate outputs, datasets, models, and generated figures
+*.xlsx
+*.xls
+*.csv
+*.png
+*.svg
+*.eps
+*.pth
+*.zip
+ConstraintOptimizer/data/
+ConstraintOptimizer/output/
+ConstraintOptimizer/StageA/res/
